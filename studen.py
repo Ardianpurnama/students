@@ -12,9 +12,9 @@ print (eggs)
  
 #contoh lain
 pejumlahan = 72 + 23
-pengurangan = 108 - 204
-perkalian = 108 * 0.5
-pembagian = 108 / 9
+
+
+
 
 """ Ini adalah contoh
 Komentar multi-baris
