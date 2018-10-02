@@ -4,14 +4,14 @@ help(wikipedia)
 print("RFU SEKAWAN")
 
 #contoh penjumlahan, dan cetak hasilnya
-jumlah = 10 + 10
-print (jumlah)
+
+
 
 eggs = 10 ** 2
 print (eggs)
  
-#contoh lain
-pejumlahan = 72 + 23
+
+
 
 
 
